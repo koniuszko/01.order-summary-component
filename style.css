@@ -3,7 +3,7 @@ body,
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Red Hat Display, sans-serif';
+    font-family: 'Roboto';
 }
 
 main {
@@ -115,20 +115,20 @@ main {
 }
 
 p {
-    padding-top: 10px;
+    padding: 10px 20px;
     font-size: 16px;
-    font-weight: 500;
+    font-weight: 300;
     color: darkgrey;
 }
 
 h1 {
     font-size: 30px;
-    font-weight: 900;
+    font-weight: 700;
 }
 
 h2 {
     font-size: 25px;
-    font-weight: 700;
+    font-weight: 500;
 }
 
 a {
